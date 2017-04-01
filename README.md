@@ -1,2 +1,2 @@
 # Microcontroller-Engineering-I
-Assembly programs for micro-controller firmware
+Assembly programs written for micro-controller firmware
